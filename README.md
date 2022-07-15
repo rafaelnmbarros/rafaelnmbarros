@@ -17,6 +17,7 @@
 <a href="https://www.researchgate.net/profile/Rafael-Barros-15" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/rafaelnmbarros/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
+[Currículo Lattes:](http://lattes.cnpq.br/8699816577670171) http://lattes.cnpq.br/8699816577670171
 
 
 
