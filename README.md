@@ -1,5 +1,5 @@
 
-### Olá! Me chamo Rafael Barros, engenheiro civil e professor. 👋
+### Olá! Me chamo Rafael Barros, sou engenheiro civil e professor. 👋
 
 <div align="left">
   <img align="center" alt="Rafa-Js" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
