@@ -19,6 +19,7 @@
 
 [Currículo Lattes:](http://lattes.cnpq.br/8699816577670171) http://lattes.cnpq.br/8699816577670171
 
+https://skyline.github.com/rafaelnmbarros/2021
 
 
 <!--
