@@ -1,9 +1,9 @@
 
 ### Olá! Me chamo Rafael Barros, sou engenheiro civil e professor. 👋
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelnmbarros&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnmbarros&layout=compact&langs_count=7&theme=dracula"/>
+<div align="left">
+  <a href="https://github.com/rafaelnmbarros">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelnmbarros&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnmbarros&layout=compact&langs_count=7"/>
 </div>
 
 <div align="left">
