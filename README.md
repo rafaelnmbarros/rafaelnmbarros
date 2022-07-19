@@ -1,5 +1,10 @@
 
 ### Olá! Me chamo Rafael Barros, sou engenheiro civil e professor. 👋
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelnmbarros&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnmbarros&layout=compact&langs_count=7"/>
+</div>
 
 <div align="left">
   <img align="center" alt="Rafa-Js" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
